@@ -9,5 +9,20 @@
 ````
                                                                                                              
 <p align="center">
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-2.7-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
+<img src="https://img.shields.io/badge/Python-3-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
 </p>
+
+
+## Main Futures
+
++ **Recently opened files   :** Doc, Docx, PDF
++ **Analyze task manager    :** Scheduler tasks, virus_scan
++ **Analyze startup direc.  :** virus_scan
++ **Analyze wifi profiles   :** Analyze all wifi profiles, before connected (OPN, WiFi-Pineapple)
++ **Analyze browser ext.    :** Chrome, firefox extensions
++ **Analyze vulnerabilities :** ms08-067, ms17-010
++ **Firewall state          :** Open or close
++ **RDP      state          :** Open or close
+
+
+
