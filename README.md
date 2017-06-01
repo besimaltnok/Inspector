@@ -23,6 +23,8 @@
 + **Analyze vulnerabilities :** ms08-067, ms17-010
 + **Firewall state          :** Open or close
 + **RDP      state          :** Open or close
++ **Last-mounted USB        :** Lists previously installed USB devices
++ **Reporting               :** Generate report
 
 
 
